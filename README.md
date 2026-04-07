@@ -21,6 +21,13 @@ Bu proje, C# WinForms kullanılarak geliştirilmiş bir yemek kartı uygulaması
 - `YemekKarti` → Ana proje
 - `NotePad1` → Önceki çalışma
 
+## Kurulum
+
+1. database.sql dosyasını SQL Server'da çalıştır
+2. Projeyi Visual Studio ile aç
+3. App.config içinden connection string ayarla
+4. Çalıştır 🚀
+
 ## 👩‍💻 Geliştirici
 
 Elif Akan
