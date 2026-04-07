@@ -1,7 +1,7 @@
 ﻿NOTEPAD YARDIM DOSYASI
 
 Bu program, temel bir metin editörü olarak tasarlanmıştır. 
-Aşağıda programın temel işlevleri açıklanmıştır:
+
 
 1. Dosya Menüsü:
    - New (Yeni): Yeni bir boş belge oluşturur.
